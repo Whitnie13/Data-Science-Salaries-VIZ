@@ -1,7 +1,5 @@
 # Data-Science-Salaries-VIZ
 
-Data Science Salaries Tableau Visualization
-
 
 This project is a data visualization of salaries for data science professionals in various roles and industries using Tableau. The dataset used is publicly available and was downloaded from Kaggle.
 
